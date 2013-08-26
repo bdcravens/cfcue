@@ -1,0 +1,7 @@
+Fields:
+
+queuesService (static CFC implementing IQueuesService)
+queueName
+configBean
+interval
+workerClass ????

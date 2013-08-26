@@ -1,0 +1,13 @@
+queues/
+
+queue/(name)/batches
+
+queue/(name)/tasks
+
+batch/(id)/tasks
+
+queue/(name)/failures
+
+batch/(id)/failures
+
+failure/(id)
